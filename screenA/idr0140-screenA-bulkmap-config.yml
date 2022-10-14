@@ -33,6 +33,10 @@ columns:
     clientname: Channels
     include: true
 
+  - name: Comment [Image]
+    clientname: Image Comment
+    include: true
+
 
   ######################################################################
   # mapr groups
