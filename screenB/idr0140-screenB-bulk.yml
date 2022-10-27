@@ -2,3 +2,5 @@
 target: "Screen:name:idr0140-ho-stressresponse/screenB"
 include: "../bulk.yml"
 path: "idr0140-screenB-plates.tsv"
+columns:
+  - path
