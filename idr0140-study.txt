@@ -16,7 +16,7 @@ Study Screens Number	2
 Study External URL	
 
 Study BioImage Archive Accession				
-Study Public Release Date					
+Study Public Release Date	2022-10-31					
 					
 # Study Publication					
 Study PubMed ID					
